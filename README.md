@@ -1,2 +1,2 @@
 # Neural-Networks
-Neural Networks with Sequential and Functional API
+Neural Networks training with using different datasets
